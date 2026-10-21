@@ -34,6 +34,7 @@
 - **[tooooools.app](https://www.tooooools.app)** - Free minimalist and lo-fi effects for online media processing.
 - **[artkit.cc](https://artkit.cc)** - Freemium creative design tool suite.
 - **[pixelcrash.xyz](https://www.pixelcrash.xyz)** - Digital distortion, glitch effects, and datamoshing-inspired animations.
+- **[WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)** - The easiest way to identify fonts on web pages.
 
 ## 💻 Development Ecosystem
 - **[Supabase](https://supabase.com/)** - An open-source Firebase alternative providing a Postgres database, Authentication, instant APIs, and Realtime subscriptions.
@@ -44,6 +45,9 @@
 - **[LogoIpsum](https://logoipsum.com)** - Free placeholder temporary logos for UI/UX mockups.
 - **[Google Fonts](https://fonts.google.com)** - A library of free, open-source fonts and icons.
 - **[Three.js](https://threejs.org)** - A cross-browser JavaScript library for rendering 3D computer graphics.
+- **[Mobile View — Mobile Simulator & Preview](https://chromewebstore.google.com/detail/mobile-view-%E2%80%94-mobile-simu/hocbjiaeeijekejepphjihbpogikmofh)** - Mobile simulator: preview any site on iPhone, Android & tablets — up to 5 at once. Mobile view + desktop live, responsive design.
+- **[BetterBugs](https://chromewebstore.google.com/detail/betterbugs-create-precise/mdljmlgokccncglfobogbfjgcijldnaj)** - Create precise bug reports with 1-click.
+- **[VisBug](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)** - Open source web design debug tools built with JavaScript: a FireBug for designers.
 
 ## 🤖 Artificial Intelligence
 - **[Ollama](https://ollama.com)** - An open-source application that lets you download and run large language models locally on your own hardware.
